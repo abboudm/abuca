@@ -25,6 +25,10 @@
             
         </activity>
         
+        
+		<activity android:label="Life Cycle Test" 
+		    	  android:name=".LifeCycleTest"
+				  android:configChanges="keyboard|keyboardHidden|orientation" />
     </application>
 
 </manifest>
